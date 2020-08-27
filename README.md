@@ -1,2 +1,3 @@
 # SMA
-Sozialmedizinische Assistenten (SMA)
+
+Sozialmedizinische Assistenten/innen (SMA)
