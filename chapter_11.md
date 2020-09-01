@@ -1,7 +1,7 @@
 ---
 layout: page
 title: c. Impressum
-nav_order: 12
+nav_order: 11
 ---
 
 <p>Sozialmedizinische Assistenten/innen<br/>
