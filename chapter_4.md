@@ -78,11 +78,9 @@ detaillierte Planung des Projektes unter Verwendung einer groben
 Projektphasenplans, eines Projektstrukturplans (quasi das Organigramm
 des Projektes) sowie eines Aufgaben- und Terminplans.
 
-{% include image.html url="images/7282511b-9dde-46e9-b9fe-1a5ec2f8cfc0.png" description="Abbildung 1: Phasen des Projektmanagements" %}
-
 Die konkret zu bearbeitenden Themen bei der Projektplanung sind:
 
-{% include image.html url="images/7282511b-9dde-46e9-b9fe-1a5ec2f8cfc0.png" description="Abbildung 2: Phasen der Projektplanung" %}
+{% include image.html url="images/7282511b-9dde-46e9-b9fe-1a5ec2f8cfc0.png" description="Abbildung 1: Phasen der Projektplanung" %}
 
 Bei der Zielformulierung sind die SMART(E)-Kriterien zu berücksichtigen,
 d.h. Ziele sollten spezifisch, messbar, angemessen, realistisch,
