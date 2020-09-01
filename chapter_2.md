@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 01. Allgmeine & Grundlagen
+title: Allgmeine & Grundlagen
 nav_order: 2
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 ## Sozialmedizin
 
 Die Sozialmedizin richtet den Blick auf die Wechselwirkungen, sowie die
@@ -415,139 +414,139 @@ Berufschancen für die Kolleginnen und Kollegen – zu erreichen.
 #### Typische Stellenbeschreibung einer SMA
 
 1.  Gesundheitsförderung/Prävention
-    
+
       - Präventionsprogramme, -projekte
-    
+
       - Leistungen der sozialmedizinischen Nachschau
 
 2.  Beratung in Kindertagesstätten für Einrichtungsleitung,
     Erzieher/innen, Eltern
-    
+
       - Vorgespräch, Terminvergabe, Erläuterung der Prozedere unter
         Beachtung der datenschutzrechtlichen Voraussetzungen, Teilnahme
         am Tagesablauf des Kindes in der Einrichtung, Beobachtung des
         Spielverhaltens, Umgang mit anderen Kindern und Erziehern,
         Einblick in Lebenssituationen (Essen, Schlafen, usw.)
-    
+
       - Absprache weiterer Vorgehensweise bzgl. Fördermöglichkeiten,
         medizinische Abklärung, Entlastungen des Kindergartens,
         Elterngespräch
-    
+
       - Bericht über geplante Maßnahmen, Entwicklungsstand
 
 3.  Hausbesuch, aufsuchende Tätigkeiten in den Lebenswelten
-    
+
       - Beratung, einschließlich Planung und Koordinierung
         erforderlicher Maßnahmen, beispielsweise im
         Sozialpsychiatrischen Dienst (SpDi), in der Lebenswelt etc.
-    
+
       - Bericht über geplante Maßnahmen, Entwicklungsstand
 
 4.  aufsuchender sozialmedizinischer Kinderschutz, sozialmedizinische
     gemeindebezogene Aufgaben
-    
+
       - Zusammenarbeit mit Jugendamt, Jugendhilfeplanung
-    
+
       - Zusammenarbeit mit Anbietern von Frühförderung und
         heilpädagogischen Leistungen, Sozialpädiatrischen Zentren und
         sonstigen
 
 5.  Beratung im Gesundheitsamt, persönlich oder telefonisch
-    
+
       - Risikokinder (Frühgeburten, Behinderte, Traumatisierte,
         Schwangerschaften mit Suchtproblematik). Vorstellung der
         möglichen Förderangebote auch im weiteren Verlauf.
-    
+
       - Rücksprache mit Ärzten, Förderpraxen, Instituten,
         Betreuungseinrichtungen
-    
+
       - Familien, die sich Sorgen machen bezüglich der Gesundheit oder
         Entwicklung ihres Kindes
-    
+
       - Fachberatung Hören, Sprache und Sehen
 
 6.  Schul(eingangs)untersuchungen
-    
+
       - Beteiligung am Screeningverfahren für Einschüler/innen
-    
+
       - Seh- und Hörtest.
 
 7.  Schuleingangsuntersuchung für Seiteinsteigende (Zuzug aus dem
     Ausland)
 
 8.  Inklusionsberatung
-    
+
       - Koordination freier Inklusiv-Plätze in Kindertagesstätten
-    
+
       - Kenntnisse über sämtliche Inklusiv-Plätze, angestrebte
         Umwandlungen, geplante Plätze für das Folgejahr.
-    
+
       - Unterstützung der Familien bei der Suche nach geeigneten
         Einrichtungen bzw. Einrichtungen bei der Suche nach einem
         passenden Kind, das vom Alter, Geschlecht, Behinderung und
         anderen aufnahmerelevanten Kriterien in die entsprechende
         Einrichtung passen könnte.
-    
+
       - Kenntnisse über neueste Richtlinien bzw. Verfahrensgrundlagen
         des Landschaftsverbandes bezüglich Förderung von Kindern mit
         Behinderung in Kindertageseinrichtungen.
-    
+
       - Ortsübliche Abläufe beim Sozialamt, Jugendamt, Gruppenstrukturen
         und Möglichkeiten.
 
 9.  Organisation und Mitarbeit bei Untersuchungen zur Feststellung der
     Behinderung nach §§53 SGBXII
-    
+
       - Auftragsannahme, Terminplanung, Erstkontakt, Einladung
-    
+
       - Erhebung der Anamnese, Impfstatus, Seh- und Hörtest,
         Motoriktest, Entwicklungsstand, Besonderheiten, (Klinikberichte,
         Gutachten, Entwicklungsdokumentationen aus Einrichtungen)
-    
+
       - Fertigstellen der Gutachten unter Verwendung sozialmedizinischen
         Wissens
 
 10. Beratung
-    
+
       - Prostituiertenschutzgesetz
-    
+
       - Schwangerschaftskonfliktberatung
 
 11. Infektionsschutz
-    
+
       - HIV/SDI
-    
+
       - Ermittlungen, Beratungen und Dokumentation nach dem
         Infektionsschutzgesetz (Meldepflichtige Krankheiten)
-    
+
       - Tuberkulose-Fürsorge und (aufsuchende) Überwachung
-    
+
       - Erstuntersuchungen von Asylbewerber/innen nach dem IfSG
-    
+
       - Impfprävention und Kampagnenbegleitung
-    
+
       - Belehrungen nach §43 Infektionsschutzgesetz
-    
+
       - Unterstützung der Multiresistente Erreger-Netzwerke und der
         Krankenhaus-hygienischen Überwachung
 
 12. Gremienarbeit
-    
+
       - Konferenzen: Erstellen von Unterlagen (Gesundheitsbögen) für
         Beratungskonferenzen mit Berichten, Attesten, Gutachten der
         verschiedenen Akteure/innen. Teilnahme und Nachbearbeitung der
         Unterlagen
-    
+
       - Netzwerkinitiierung und -koordination
-    
+
       - Teilnahme an Arbeitskreisen
 
 13. Alle Bereiche
-    
+
       - Statistiken, Planungen, Ermittlung der Bedarfe
-    
+
       - Fortbildungen
-    
+
       - Archiv, Pflege der medizinisch–technischen Geräte
 
 14. Öffentlichkeitsarbeit/Medienarbeit
@@ -633,9 +632,3 @@ Tätigkeit von", EG 7 "Normaltätigkeit", EG 8 mindestens zu einem
 Viertel schwierige Aufgaben. EG 9a schwierige Aufgaben und EG 9b
 "[herausgehobene
 Einzeltätigkeiten](www.bund-laender-nrw.verdi.de "www.bund-laender-nrw.verdi.de")".
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

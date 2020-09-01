@@ -1,21 +1,9 @@
 ---
 layout: page
 title: c. Impressum
-nav_order: 10
+nav_order: 11
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 ## **Kontaktangaben**
 
 Akademie für Öffentliches Gesundheitswesen in Düsseldorf
@@ -92,9 +80,3 @@ waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente
 inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete
 Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden
 von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
-
- 
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 03. Management, Projektarbeit, Netzwerke
+title: Management, Projektarbeit, Netzwerke
 nav_order: 4
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 ## Managementaufgaben
 
 ### Definition allgemein
@@ -602,7 +601,3 @@ Dateien per
 erhalten werden.
 
 ![](d9d0f2e3-fc55-458b-9fe3-13f081ded0e0.png)
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

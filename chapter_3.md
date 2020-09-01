@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 02. Fachliche Aufgaben
+title: Fachliche Aufgaben
 nav_order: 3
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 # Gesundheitsförderung / Prävention
 
 ## **Prävention**
@@ -185,7 +184,7 @@ Mögliche Maßnahmen bei denen eine SMA mitwirken kann, wären:
     verschiedenen gesundheitlichen Schwerpunkten an.
 
   - Elternabende können bei Interesse der Einrichtungen angeboten werden
-    
+
     2\. Zahnärztliche Untersuchungen in den Kindergärten mit
     Elternbeteiligung.
 
@@ -495,13 +494,13 @@ erforderlicher Maßnahmen folgen dem nachstehenden Ablauf 
 3.  Erfassung der Daten aus den Vorsorge- und Impfheften
 
 4.  Beginn des Screenings mit Fokus auf
-    
+
       - Fein- und Grobmotorik
-    
+
       - Sprache
-    
+
       - Auditive und visuelle Wahrnehmung
-    
+
       - Verhaltensbeobachtung
 
 5.  Durchführung eines Hör- und Sehtests
@@ -529,20 +528,20 @@ Entwicklungsstand
 ### Fachspezifische Kompetenzen der SMA
 
   - Fachkenntnisse
-    
+
     \-- der kindlichen Entwicklungsphasen
-    
+
     \-- der Entwicklungsbereiche (Motorik, Kognition, Sprache,
     Wahrnehmung, soziale-emotionale Kompetenz)
-    
+
     \-- der psychomotorischen Basiskompetenzen (Kraft, Schnelligkeit,
     Gelenkigkeit, Ausdauer, Gleichgewicht)
 
   - Bewusstsein über
-    
+
     \-- Differenz zwischen Test und Screening zur Erläuterung in
     Kindergärten
-    
+
     \-- Differenz zwischen Mangel, Schwäche und Störung
 
 <table>
@@ -637,25 +636,25 @@ anderen Vorstellungen
   - Informationen zu den spezifischen Namen der zugelassenen Impfstoffen
     findet man z. B. auf der Internetseite des Paul- Ehrlich- Instituts
     (<http://www.pei.de>)
-    
+
     weitere Internet- Tipps:
-    
+
     [www.bzga.de](http://www.bzga.de)
-    
+
     [www.kindergesundheit-info.de](http://www.kindergesundheit-info.de)
-    
+
     [www.impfen-info.de](http://www.impfen-info.de)
-    
+
     [www.infektionsschutz.de](http://www.infektionsschutz.de)
-    
+
     [www.kinderaerzte-im-netz.de](http://www.kinderaerzte-im-netz.de)
 
   - spezielle Informationen zu Reiseimpfungen:
-    
+
     [www.gesundes-reisen.de](http://www.gesundes-reisen.de)
-    
+
     [www.dtg.org/impfungen.html](http://www.dtg.org/impfungen.html)
-    
+
     [www.auswaertiges-amt.de](http://www.auswaertiges-amt.de)
 
 3\. Impfsprechstunde im Gesundheitsamt
@@ -1312,7 +1311,7 @@ Schwangerschaftsabbruches (Abtreibung). Fragen zu Sexualität, Verhütung
 und Familienplanung sind ebenfalls Thema bei der Beratung. Die SMA
 beantragt für die Schwangere auf Wunsch Stiftungsgelder und
 einkommensabhängige Beihilfen.  
-  
+
 Die Beratung ist kostenlos und kann anonym durchgeführt werden und ist
 zwingend erforderlich um straffrei abtreiben zu können.
 
@@ -1386,13 +1385,13 @@ jeden Fall bekommen wird. Schön ist es, wenn die Bescheinigung schon
 vorgefertigt auf dem Beratungstisch liegt oder auch gleich weitergegeben
 wird, damit die erste Anspannung und Angst vor der Behörde genommen
 wird.  
-  
+
 Es hat sich als hilfreich erwiesen, wenn man eine bunte Mischung aus
 Produkten (Kondome in verschiedenen Größen, Gleitmittel auf Wasser- und
 Silikonbasis, verschiedene Verhütungsmittel etc.) zur Verfügung hat. Das
 Eis bricht relativ schnell, wenn die Beraterin offen mit dem Thema
 umgehen kann.  
-  
+
 Da sehr viele Menschen in der Prostitution nicht aus Deutschland kommen,
 ist es sehr hilfreich, einen weiblichen (\!) Sprachmittler zur Hand zu
 haben, die vor der Übersetzung nach Möglichkeit schon über die Inhalte
@@ -1400,7 +1399,7 @@ der Beratung informiert wird. Hier hat sich ein Video-Dolmetschen in
 vielen Ämtern bewährt, zumal es durch die hohe Reisetätigkeit der in der
 Prostitution tätigen Menschen, oft sehr schwierig ist Termine
 verbindlich einzuhalten.  
-  
+
 Die Bundesregierung, Landesgesundheitsämter und auch viele
 Beratungsstellen halten Informationsblätter in vielen Sprachen online
 zum Thema vor, hier:
@@ -1712,19 +1711,13 @@ herunterladen. Es hat sich bewährt, zusätzlich noch ein
 Informationsblatt vom [Bundesinstitut für Risikobewertung
 (BfR)](https://www.bfr.bund.de/de/publikation/merkblaetter_fuer_weitere_berufsgruppen-61521.html)
 zur Verfügung zu stellen.  
-  
+
 Für den mündlichen Teil wird in der Regel ein Vortrag (ergänzend gerne
 mit Power-Point und/oder Videobeiträgen) angeboten. Die Inhalte spiegeln
 den schriftlichen Teil noch einmal im Detail wieder. Hier ist es
 wichtig, den Schwerpunkt auf die Händehygiene und die Mitwirkungspflicht
 des Mitarbeiters bei bestimmten Krankheitsbildern zu legen, um möglichen
 Infektionskrankheiten entgegenzuwirken.  
-  
+
 Die Bescheinigungen die die SMA ausstellt und unterzeichnet, haben eine
 lebenslange Gültigkeit und sind bundesweit einsetzbar.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 04. Gesundheitsberichterstattung, Statistik, Evaluation
+title: Gesundheitsberichterstattung, Statistik, Evaluation
 nav_order: 5
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 # Gesundheitsberichterstattung
 
 ### Definition
@@ -162,7 +161,3 @@ beschreiben. Sie ist eine Form der angewandte Epidemiologie. In einen
 Gesundheitsbericht fließen Daten verschiedener Medizinalstatistiken
 ebenso ein, wie unterschiedliche Indikatoren zur Beschreibung
 gesundheits- und krankheitsbezogener Aspekte.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

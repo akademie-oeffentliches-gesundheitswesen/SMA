@@ -3,19 +3,7 @@ layout: page
 title: Annex-Websites
 nav_order: 7
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 **Ausbildungs- und Prüfungsordnung für SMA**
 [https://recht.nrw.de/lmi/owa/br\_vbl\_detail\_text?anw\_nr=6\&vd\_id=14994\&vd\_back=N388\&sg=0\&menu=1](https://recht.nrw.de/lmi/owa/br_vbl_detail_text?anw_nr=6&vd_id=14994&vd_back=N388&sg=0&menu=1 "https://recht.nrw.de/lmi/owa/br_vbl_detail_text?anw_nr=6&vd_id=14994&vd_back=N388&sg=0&menu=1")
 
@@ -66,7 +54,3 @@ kostenlos für Eltern und Fachleute.
 
 **Robert Koch-Institut (RKI)**
 [https://www.rki.de](https://www.rki.de "https://www.rki.de")
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

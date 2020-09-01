@@ -3,19 +3,7 @@ layout: page
 title: Annex-Abkürzungen
 nav_order: 6
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 **APO-SMA** Ausbildungs- und Prüfungsordnung für sozialmedizinische
 Assistentinnen und Assistenten
 
@@ -51,7 +39,3 @@ Assistentinnen und Assistenten
 **SpDi** Sozialpsychiatrischer Dienst
 
 **STI** sexuell übertragbare Infektionskrankheiten
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
