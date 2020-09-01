@@ -15,7 +15,7 @@ nav_order: 3
 
    <p></p>
 
-# Gesundheitsförderung / Prävention
+## Gesundheitsförderung / Prävention
 
 ## **Prävention**
 
