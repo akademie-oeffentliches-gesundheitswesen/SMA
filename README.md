@@ -11,10 +11,10 @@ Ort Berlin</p>
 
 <p>Drucken Lightning Source, Ingram Content Group Inc.</p>
 
-wb https://akademie-oeffentliches-gesundheitswesen.github.io/SMA/vivliostyle/#src=../webbuch/sma-wb-v4.xhtml&bookMode=true
+Webbuch: https://akademie-oeffentliches-gesundheitswesen.github.io/SMA/vivliostyle/#src=../webbuch/sma-wb-v4.xhtml&bookMode=true
 
-pdf (screen) https://akademie-oeffentliches-gesundheitswesen.github.io/SMA/screen-pdf/sma-screen-pdf-v4.pdf
+PDF (screen): https://akademie-oeffentliches-gesundheitswesen.github.io/SMA/screen-pdf/sma-screen-pdf-v4.pdf
 
-web https://akademie-oeffentliches-gesundheitswesen.github.io/SMA/
+Website: https://akademie-oeffentliches-gesundheitswesen.github.io/SMA/
 
-repo https://github.com/akademie-oeffentliches-gesundheitswesen/SMA
+GitHub repository: https://github.com/akademie-oeffentliches-gesundheitswesen/SMA

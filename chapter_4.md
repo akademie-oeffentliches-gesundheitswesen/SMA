@@ -78,13 +78,11 @@ detaillierte Planung des Projektes unter Verwendung einer groben
 Projektphasenplans, eines Projektstrukturplans (quasi das Organigramm
 des Projektes) sowie eines Aufgaben- und Terminplans.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Phasen des Projektmanagements">Phasen
-des Projektmanagements</span>](7282511b-9dde-46e9-b9fe-1a5ec2f8cfc0.png)
+{% include image.html url="images/7282511b-9dde-46e9-b9fe-1a5ec2f8cfc0.png" description="Abbildung 1: Phasen des Projektmanagements" %}
 
 Die konkret zu bearbeitenden Themen bei der Projektplanung sind:
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Phasen der Projektplanung">Phasen
-der Projektplanung</span>](7282511b-9dde-46e9-b9fe-1a5ec2f8cfc0.png)
+{% include image.html url="images/7282511b-9dde-46e9-b9fe-1a5ec2f8cfc0.png" description="Abbildung 2: Phasen der Projektplanung" %}
 
 Bei der Zielformulierung sind die SMART(E)-Kriterien zu berücksichtigen,
 d.h. Ziele sollten spezifisch, messbar, angemessen, realistisch,
@@ -561,7 +559,7 @@ Laie.
     Illustration erhöhen die Chance erheblich, dass der Text abgedruckt
     wird.
 
-![](42365386-ba4c-4e47-94df-98c7caa99d8b.png)
+{% include image.html url="images/42365386-ba4c-4e47-94df-98c7caa99d8b.png" %}
 
 ## Flyer und Infomaterialien erstellen
 
@@ -578,7 +576,7 @@ Stückzahl verfügbar sein, da sie meistens in größerer Anzahl (z. B. im
 Rahmen von Gruppeninformationen oder Reihenuntersuchungen) verwendet
 werden.
 
-![](89c6da97-864f-4293-a42b-d6f2b4adfd5d.png)
+{% include image.html url="images/89c6da97-864f-4293-a42b-d6f2b4adfd5d.png" %}
 
 Oft werden spezifische Beschreibungen von Beratungsangeboten, inklusive
 örtlicher Kontaktdaten, von der SMA gestaltet und entworfen (inkl.
@@ -586,7 +584,7 @@ Grafiken, Bilddateien und ggf. Zeichnungen unter Beachtung von dem
 jeweiligen Copyright). Auf die Textmenge, die Textsprache (ggf. einfache
 Sprache) und eine gendergerechte Formulierung sollte geachtet werden.
 
-![](447ee051-0e48-444a-8c9d-ec0c95bcaf77.png)
+{% include image.html url="images/447ee051-0e48-444a-8c9d-ec0c95bcaf77.png" %}
 
 Auch werden oft digitale Vortragsmedien, wie z.B. Powerpoint- Dateien
 oder Statistiken mit graphischen Darstellungen erstellt.
@@ -600,4 +598,4 @@ Dateien per
 [Download](https://www.impfen-info.de/mediathek/impfvortrag/ "https://www.impfen-info.de/mediathek/impfvortrag/")
 erhalten werden.
 
-![](d9d0f2e3-fc55-458b-9fe3-13f081ded0e0.png)
+{% include image.html url="images/d9d0f2e3-fc55-458b-9fe3-13f081ded0e0.png" %}
