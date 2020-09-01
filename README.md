@@ -10,7 +10,7 @@ https://doi.org/10.25815/k82c-zp40
 
 wb https://akademie-oeffentliches-gesundheitswesen.github.io/SMA/vivliostyle/#src=../webbuch/sma-wb-v4.xhtml&bookMode=true
 
-pdf (screen)
+pdf (screen) https://akademie-oeffentliches-gesundheitswesen.github.io/SMA/screen-pdf/sma-screen-pdf-v4.pdf
 
 web https://akademie-oeffentliches-gesundheitswesen.github.io/SMA/
 
