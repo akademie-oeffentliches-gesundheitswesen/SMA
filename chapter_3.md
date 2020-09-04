@@ -873,22 +873,22 @@ typische Durchführung:
 4.  schriftliche Einladung zur SEU standardisierte Information und
     Anamnesebogen, Rechtsgrundlage und Einwilligungserklärung
 
-4\. Vorstellung im KJGD
+5\. Vorstellung im KJGD
 
-4.1. Voruntersuchung der Soz.med. Fachkraft und Untersuchung des Arztes
+5.1. Voruntersuchung der Soz.med. Fachkraft und Untersuchung des Arztes
 bei dem jeweils standardisierten Untersuchungsverfahren und
 gleichzeitige Dokumentation
 
-4.2. Abschlussgespräch und Beratung der Eltern/Erziehungsberechtigten zu
+5.2. Abschlussgespräch und Beratung der Eltern/Erziehungsberechtigten zu
 den eventuellen noch erforderlichen Abklärungen und ggfs. der Einleitung
 von Fördermöglichkeiten
 
-4.3. Erstellung des schriftlichen Schulgutachten
+5.3. Erstellung des schriftlichen Schulgutachten
 
-5\. Auswertung und Statistik, Weiterleitung in anonymisierter Form an
+6\. Auswertung und Statistik, Weiterleitung in anonymisierter Form an
 die Landesbehörde
 
-6.Feststellung besonderer Bedarfe ggfs Installation von Projekten über
+7.Feststellung besonderer Bedarfe ggfs Installation von Projekten über
 die Jugendhilfe
 
 ### Fachspezifische Kompetenzen der SMA:
