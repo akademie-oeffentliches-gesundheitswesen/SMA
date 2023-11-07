@@ -7,7 +7,7 @@ nav_order: 11
 <p>Sozialmedizinische Assistenten/innen<br/>
 Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
 ISBN 978-3-9812871-7-2<br/>
-DOI <a href="https://doi.org/10.25815/k82c-zp40" title="https://doi.org/10.25815/k82c-zp40">10.25815/k82c-zp40</a><br/>
+DOI <a href="https://doi.org/10.61163/k82c-zp40" title="https://doi.org/10.61163/k82c-zp40">10.61163/k82c-zp40</a><br/>
 Datum 2020<br/>
 Ort Berlin</p>
 
